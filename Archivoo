@@ -1,0 +1,12 @@
+package com.mycompany.pruebaenlacegit;
+
+/**
+ *
+ * @author Casa
+ */
+public class Pruebaenlacegit {
+
+    public static void main(String[] args) {
+        System.out.println("Esta linea ha sido añadida por Aitor Vicent Cuadrado");
+    }
+}
